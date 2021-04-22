@@ -1,0 +1,1167 @@
+
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = '?'
+Date: 17/11/2020  Time: 12:03:15
+
+Original string =  hi	Hex = 68  69  
+
+Encrypted string = ÍÔ	Hex = cd  d4  
+
+Decrypted string = Soon!	Hex = 53  6f  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 26/11/2020  Time: 15:36:28
+
+Original string =  sd	Hex = 73  64  08  08  08  08  
+
+Encrypted string = ùÏäÑx5	Hex = f9  cf  e4  d1  78  35  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 26/11/2020  Time: 15:36:38
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = šïh]”	Hex = 9a  ef  68  5d  94  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 26/11/2020  Time: 16:14:33
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = šïh]”	Hex = 9a  ef  68  5d  94  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 26/11/2020  Time: 17:49:44
+
+Original string =  asmr	Hex = 61  73  6d  72  
+
+Encrypted string = »-Hž	Hex = bb  2d  48  9e  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 12:10:39
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;ûšz	Hex = 3b  fb  9a  7a  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 12:14:43
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = 	Hex = 1  1  1  1  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 12:14:56
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = 	Hex = 1  1  1  1  1  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 12:16:39
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = šïh]”	Hex = 9a  ef  68  5d  94  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 12:16:49
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 12:16:58
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 12:17:52
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;ûšz	Hex = 3b  fb  9a  7a  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 12:22:51
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;ûšz	Hex = 3b  fb  9a  7a  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 12:27:08
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;ûšz	Hex = 3b  fb  9a  7a  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 12:28:18
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 12:29:05
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;ûšz	Hex = 3b  fb  9a  7a  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 12:30:26
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 13:46:42
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 13:49:03
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 13:51:57
+
+Original string =  hellow	Hex = 68  65  6c  6c  6f  77  
+
+Encrypted string = šïh]”Ú	Hex = 9a  ef  68  5d  94  da  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 14:23:55
+
+Original string =  ECHO	Hex = 45  43  48  4f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 14:25:27
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 14:26:14
+
+Original string =  ECHO	Hex = 45  43  48  4f  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 27/11/2020  Time: 14:26:51
+
+Original string =  ECHO	Hex = 45  43  48  4f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 30/11/2020  Time: 12:04:52
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 30/11/2020  Time: 12:06:48
+
+Original string =  belt	Hex = 62  65  6c  74  
+
+Encrypted string = Ûïh^	Hex = db  ef  68  5e  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 30/11/2020  Time: 12:07:52
+
+Original string =  BeLT	Hex = 42  65  4c  54  
+
+Encrypted string = Ûïh^	Hex = db  ef  68  5e  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 30/11/2020  Time: 12:33:03
+
+Original string =  belt	Hex = 62  65  6c  74  
+
+Encrypted string = Ûïh^	Hex = db  ef  68  5e  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 30/11/2020  Time: 12:33:42
+
+Original string =  BeLT	Hex = 42  65  4c  54  
+
+Encrypted string = Ûïh^	Hex = db  ef  68  5e  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 30/11/2020  Time: 12:36:58
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 30/11/2020  Time: 12:37:18
+
+Original string =  ECHO	Hex = 45  43  48  4f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 11:33:29
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 11:33:47
+
+Original string =  ECHO	Hex = 45  43  48  4f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 11:33:58
+
+Original string =  e7js	Hex = 65  37  6a  73  
+
+Encrypted string = ;¥¨¾	Hex = 3b  a5  a8  be  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 11:34:14
+
+Original string =  e7js	Hex = 65  37  6a  73  08  08  
+
+Encrypted string = ;¥¨¾|1	Hex = 3b  a5  a8  be  7c  31  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 11:34:30
+
+Original string =  E7JS	Hex = 45  37  4a  53  
+
+Encrypted string = ;¥¨¾	Hex = 3b  a5  a8  be  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 11:35:06
+
+Original string =  E7JS	Hex = 45  37  4a  53  
+
+Encrypted string = ;¥¨¾	Hex = 3b  a5  a8  be  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 11:35:36
+
+Original string =  e7js	Hex = 65  37  6a  73  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 11:36:05
+
+Original string =  e7js	Hex = 65  37  6a  73  
+
+Encrypted string = ;¥¨¾	Hex = 3b  a5  a8  be  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 11:36:13
+
+Original string =  E7Js	Hex = 45  37  4a  73  
+
+Encrypted string = ;¥¨¾	Hex = 3b  a5  a8  be  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 11:37:31
+
+Original string =  echos	Hex = 65  63  68  6f  08  73  
+
+Encrypted string = ;/è=|Z	Hex = 3b  2f  e8  3d  7c  5a  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 12:32:31
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 12:32:42
+
+Original string =  ECHO	Hex = 45  43  48  4f  
+
+Encrypted string = ?+ì9	Hex = 3f  2b  ec  39  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 12:32:54
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 12:33:00
+
+Original string =  ECHO	Hex = 45  43  48  4f  
+
+Encrypted string = ?+ì9	Hex = 3f  2b  ec  39  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 12:34:30
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 12:34:47
+
+Original string =  ECHO	Hex = 45  43  48  4f  
+
+Encrypted string = ?+ì9	Hex = 3f  2b  ec  39  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 12:35:43
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 12:35:53
+
+Original string =  ECHO	Hex = 45  43  48  4f  
+
+Encrypted string = ?+ì9	Hex = 3f  2b  ec  39  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 12:51:10
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 01/12/2020  Time: 12:51:21
+
+Original string =  ECHO	Hex = 45  43  48  4f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 09:07:05
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 09:07:14
+
+Original string =  ECHO	Hex = 45  43  48  4f  
+
+Encrypted string = ?+ì9	Hex = 3f  2b  ec  39  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 09:48:55
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 09:52:37
+
+Original string =  ech	Hex = 65  63  68  
+
+Encrypted string = ;/è	Hex = 3b  2f  e8  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:00:48
+
+Original string =  ex	Hex = 65  78  
+
+Encrypted string = ;L	Hex = 3b  4c  
+
+Decrypted string = Soon!	Hex = 53  6f  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:03:52
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:07:23
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:07:51
+
+Original string =  ECHO	Hex = 45  43  48  4f  
+
+Encrypted string = ?+ì9	Hex = 3f  2b  ec  39  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:19:29
+
+Original string =  mov	Hex = 6d  6f  76  
+
+Encrypted string = :®+	Hex = 3a  ae  2b  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:24:02
+
+Original string =  e	Hex = 65  
+
+Encrypted string = ;	Hex = 3b  
+
+Decrypted string = Soon!	Hex = 53  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:28:49
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:30:41
+
+Original string =  ecg(ho	Hex = 65  63  67  28  68  6f  
+
+Encrypted string = ;/	ÕtÙ	Hex = 3b  2f  9  d5  74  d9  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:31:45
+
+Original string =  ec	Hex = 65  63  
+
+Encrypted string = ;/	Hex = 3b  2f  
+
+Decrypted string = Soon!	Hex = 53  6f  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:32:27
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:32:36
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:32:42
+
+Original string =  belt	Hex = 62  65  6c  74  
+
+Encrypted string = Ûïh^	Hex = db  ef  68  5e  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:32:50
+
+Original string =  belt	Hex = 62  65  6c  74  
+
+Encrypted string = Ûïh^	Hex = db  ef  68  5e  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:32:58
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:34:03
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 10:34:10
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = šïh]”	Hex = 9a  ef  68  5d  94  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 17:18:51
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 17:20:12
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 17:20:37
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 17:20:43
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 19:11:19
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 19:11:33
+
+Original string =  asdas	Hex = 61  73  64  61  73  
+
+Encrypted string = »-iü	Hex = bb  2d  69  fc  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 19:11:42
+
+Original string =  asdas	Hex = 61  73  64  61  73  
+
+Encrypted string = »-iü	Hex = bb  2d  69  fc  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 19:12:18
+
+Original string =  asdas	Hex = 61  73  64  61  73  
+
+Encrypted string = »-iü	Hex = bb  2d  69  fc  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 02/12/2020  Time: 19:12:28
+
+Original string =  asdas	Hex = 61  73  64  61  73  
+
+Encrypted string = »-iü	Hex = bb  2d  69  fc  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 11:45:01
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = —þþþ	Hex = 97  fe  fe  fe  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 11:45:24
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;’ó	Hex = 3b  92  f3  13  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 11:45:48
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 11:45:54
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 11:46:00
+
+Original string =  belt	Hex = 62  65  6c  74  
+
+Encrypted string = Ûïh^	Hex = db  ef  68  5e  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 11:56:07
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ¼/†	Hex = bc  1a  2f  86  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 12:15:23
+
+Original string =  echo	Hex = 65  63  68  6f  
+
+Encrypted string = ;/è=	Hex = 3b  2f  e8  3d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 12:15:30
+
+Original string =  heaven	Hex = 68  65  61  76  65  6e  
+
+Encrypted string = šïÉÕù	Hex = 9a  ef  c9  1e  d5  f9  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 12:16:38
+
+Original string =  hell	Hex = 68  65  6c  6c  
+
+Encrypted string = šïh]	Hex = 9a  ef  68  5d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 12:17:02
+
+Original string =  heaven	Hex = 68  65  61  76  65  6e  
+
+Encrypted string = šïÉÕù	Hex = 9a  ef  c9  1e  d5  f9  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 12:17:42
+
+Original string =  kram	Hex = 6b  72  61  6d  
+
+Encrypted string = úÉ}	Hex = fa  d  c9  7d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 12:18:38
+
+Original string =  hell	Hex = 68  65  6c  6c  
+
+Encrypted string = šïh]	Hex = 9a  ef  68  5d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 12:18:53
+
+Original string =  heaven	Hex = 68  65  61  76  65  6e  
+
+Encrypted string = šïÉÕù	Hex = 9a  ef  c9  1e  d5  f9  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 12:19:25
+
+Original string =  kram	Hex = 6b  72  61  6d  
+
+Encrypted string = úÉ}	Hex = fa  d  c9  7d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 12:30:44
+
+Original string =  hell	Hex = 68  65  6c  6c  
+
+Encrypted string = šïh]	Hex = 9a  ef  68  5d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 12:51:09
+
+Original string =  232e	Hex = 32  33  32  65  
+
+Encrypted string = Ñ%£|	Hex = d1  25  a3  7c  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 12:51:24
+
+Original string =  123;	Hex = 31  32  33  3b  
+
+Encrypted string = ±ƒ·	Hex = b1  5  83  b7  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 12:51:54
+
+Original string =  123;	Hex = 31  32  33  3b  
+
+Encrypted string = ±ƒ·	Hex = b1  5  83  b7  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 03/12/2020  Time: 12:52:20
+
+Original string =  123;	Hex = 31  32  33  3b  
+
+Encrypted string = ±ƒ·	Hex = b1  5  83  b7  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 16/12/2020  Time: 18:35:32
+
+Original string =  hell	Hex = 68  65  6c  6c  
+
+Encrypted string = šïh]	Hex = 9a  ef  68  5d  
+
+Decrypted string = hell	Hex = 68  65  6c  6c  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 16/12/2020  Time: 19:02:44
+
+Original string =  killme	Hex = 6b  69  6c  6c  6d  65  
+
+Encrypted string = únh]Ô˜	Hex = fa  6e  68  5d  d4  98  
+
+Decrypted string = killme	Hex = 6b  69  6c  6c  6d  65  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 16/12/2020  Time: 19:03:27
+
+Original string =  heaven	Hex = 68  65  61  76  65  6e  
+
+Encrypted string = šïÉÕù	Hex = 9a  ef  c9  1e  d5  f9  
+
+Decrypted string = heaven	Hex = 68  65  61  76  65  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 16/12/2020  Time: 19:04:47
+
+Original string =  heaven	Hex = 68  65  61  76  65  6e  
+
+Encrypted string = šïÉÕù	Hex = 9a  ef  c9  1e  d5  f9  
+
+Decrypted string = heaven	Hex = 68  65  61  76  65  6e  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 16/12/2020  Time: 19:04:59
+
+Original string =  kram	Hex = 6b  72  61  6d  
+
+Encrypted string = úÉ}	Hex = fa  d  c9  7d  
+
+Decrypted string = kram	Hex = 6b  72  61  6d  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 07/01/2021  Time: 14:07:05
+
+Original string =  jelly	Hex = 6a  65  6c  6c  79  
+
+Encrypted string = Úïh]V	Hex = da  ef  68  5d  56  
+
+Decrypted string = jelly	Hex = 6a  65  6c  6c  79  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Kemas Raihan) Encryption key = 'h'
+Date: 07/01/2021  Time: 14:07:21
+
+Original string =  fat34f	Hex = 66  61  74  33  34  66  
+
+Encrypted string = [ok¶ÿø	Hex = 5b  6f  6b  b6  ff  f8  
+
+Decrypted string = fat34f	Hex = 66  61  74  33  34  66  
+
+-------------------------------------------------------------
